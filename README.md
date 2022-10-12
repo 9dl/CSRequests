@@ -12,6 +12,7 @@ namespace SecurityRequests
             var Response = "";
             try
             {
+            // These are Fake Strings (When someone Dumps Strings he should see these just to confuse Reversers)
                 string JunkStr = "https://auth.gg/newreq";
                 string JunkStr2 = "https://keyauth.win/api";
                 string JunkStr3 = "https://gtihub.com/" + Environment.UserName + "/Backend";
